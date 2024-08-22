@@ -11,7 +11,7 @@ Responsive design for various screen sizes
 
 <b>Installation</b><br>
 Clone the repository:
-git clone https://github.com/yourusername/simple-calculator.git
+git clone https://github.com/Leo-exe-24/simple-calculator.git
 
 <b>Navigate to the project directory:</b><br>
 cd simple-calculator
