@@ -18,7 +18,7 @@ cd simple-calculator
 
 <b>Usage</b><br>
 Open the index.html file in your web browser to use the calculator.
-(Optional) Customize the appearance and functionality by editing the style.css and script.js files.
+(Optional) Customize the appearance and functionality by editing the style.css and index.html files.
 
 <b>Contributing</b><br>
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
