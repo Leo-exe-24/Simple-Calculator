@@ -11,14 +11,14 @@ Responsive design for various screen sizes
 
 <b>Installation</b><br>
 Clone the repository:
-git clone https://github.com/Leo-exe-24/simple-calculator.git
+git clone https://github.com/Leo-exe-24/Simple-Calculator.git
 
 <b>Navigate to the project directory:</b><br>
 cd simple-calculator
 
 <b>Usage</b><br>
 Open the index.html file in your web browser to use the calculator.
-(Optional) Customize the appearance and functionality by editing the style.css and index.html files.
+(Optional) Customize the appearance and functionality by editing the styles.css and index.html files.
 
 <b>Contributing</b><br>
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
